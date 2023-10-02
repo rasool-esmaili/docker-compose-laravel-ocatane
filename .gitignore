@@ -1,0 +1,4 @@
+/.idea
+/laravelApplication/*
+!/laravelApplication/Dockerfile
+/docker/mysql/data
